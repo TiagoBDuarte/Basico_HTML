@@ -1,0 +1,42 @@
+p{
+    padding: 20px;
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+
+
+#bordasTeste1{
+
+    border-radius: 4px;
+
+}
+
+#bordasTeste2{
+    border: 1px solid #ccc;
+
+}
+
+#bordasTeste3{
+    border: none;
+    border-bottom: 2px solid #1976d2;
+
+}
+
+#bordasTeste4{
+    border-left: 2px solid #1976d2;
+
+}
+
+#bordasTeste5{
+    border: 1px solid rgba(0, 0, 0, 0.1)
+
+}
+
+#bordasTeste6{
+
+  
+    outline: 2px solid #1976d2;
+    border: none;
+}
+

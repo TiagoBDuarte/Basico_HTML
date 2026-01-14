@@ -1,0 +1,16 @@
+*{
+    padding: 20px;
+}
+body{
+    background-color: aqua;
+}
+
+.imagemPrincipal{
+    height: 300px;
+    background-color: cornflowerblue;
+    background-image:url(imagens/cat.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}

@@ -1,0 +1,35 @@
+header{
+    text-align: center;
+    color: rgb(65, 62, 62);
+    background-color: antiquewhite;
+    margin: 8px 12px 5px 12px; /*top, direita,baixo,esquerdo*/
+    border-radius: 15px;
+
+}
+
+section{
+    text-align: center;
+    color: rgb(65, 62, 62);
+    background-color: antiquewhite;
+    margin: 8px 12px 5px 12px;
+    border-radius: 15px;
+
+}
+
+article{
+    text-align: center;
+    color: rgb(65, 62, 62);
+    background-color: antiquewhite;
+    margin: 8px 12px 5px 12px;
+    border-radius: 15px;
+
+}
+
+footer{
+    text-align: center;
+    color: rgb(65, 62, 62);
+    background-color: antiquewhite;
+    margin: 8px 12px 5px 12px;
+    border-radius: 15px;
+
+}
